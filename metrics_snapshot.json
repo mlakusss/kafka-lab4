@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-04-16T10:56:16.137171",
+  "total_events": 305,
+  "unique_users": 93,
+  "conversion_rates": {
+    "view_to_cart": 0.333,
+    "cart_to_purchase": 0.42,
+    "view_to_purchase": 0.14
+  },
+  "avg_session_value": 262.76,
+  "top_customers": [
+    [
+      90,
+      9
+    ],
+    [
+      81,
+      7
+    ],
+    [
+      74,
+      7
+    ],
+    [
+      80,
+      7
+    ],
+    [
+      64,
+      7
+    ]
+  ],
+  "abandoned_sessions_count": 40,
+  "total_revenue": 7620,
+  "hourly_activity": {
+    "10": 305
+  }
+}
